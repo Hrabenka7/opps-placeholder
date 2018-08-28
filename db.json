@@ -4,22 +4,31 @@
         "id": 1,
         "date": "28/08/2018",
         "company": "Company 1",
-        "agent" : "Agent 1",
-        "price": 1000 
+        "agent" : ["Agent 1", "Agent 2"],
+        "price": 1000, 
+        "name": "Opportunity Name 1",
+        "state": "1. En Tramites",
+        "percentage": "50%"
       },
       {
         "id": 2,
         "date": "29/08/2018",
         "company": "Company 2",
-        "agent" : "Agent 2",
-        "price": 2000 
+        "agent" : ["Agent 1", "Agent 2"],
+        "price": 2000,
+        "name": "Opportunity Name 2",
+        "state": "1. En Tramites",
+        "percentage": "80%"
       },
       {
         "id": 3,
         "date": "30/08/2018",
         "company": "Company 3",
-        "agent" : "Agent 3",
-        "price": 3000 
+        "agent" : ["Agent 1", "Agent 2"],
+        "price": 3000,
+        "name": "Opportunity Name 3",
+        "state": "1. En Tramites",
+        "percentage": "20%"
       }
     ]
   }
