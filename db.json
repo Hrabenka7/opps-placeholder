@@ -8,7 +8,7 @@
         "price": 1000, 
         "name": "Opportunity Name 1",
         "state": "1. En Tramites",
-        "percentage": "50%"
+        "percentage": 50
       },
       {
         "id": 2,
@@ -18,7 +18,7 @@
         "price": 2000,
         "name": "Opportunity Name 2",
         "state": "1. En Tramites",
-        "percentage": "80%"
+        "percentage": 80
       },
       {
         "id": 3,
@@ -28,7 +28,7 @@
         "price": 3000,
         "name": "Opportunity Name 3",
         "state": "1. En Tramites",
-        "percentage": "20%"
+        "percentage": 20
       }
     ]
   }
