@@ -1,31 +1,25 @@
 {
-    "posts": [
+    "opportunities": [
       {
         "id": 1,
-        "title": "Post 1"
+        "date": "28/08/2018",
+        "company": "Company 1",
+        "agent" : "Agent 1",
+        "price": 1000 
       },
       {
         "id": 2,
-        "title": "Post 2"
+        "date": "29/08/2018",
+        "company": "Company 2",
+        "agent" : "Agent 2",
+        "price": 2000 
       },
       {
         "id": 3,
-        "title": "Post 3"
+        "date": "30/08/2018",
+        "company": "Company 3",
+        "agent" : "Agent 3",
+        "price": 3000 
       }
-    ],
-    "comments": [
-      {
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
-      },
-      {
-        "id": 2,
-        "body": "some comment",
-        "postId": 1
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    ]
   }
